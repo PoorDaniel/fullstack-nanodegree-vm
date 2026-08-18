@@ -27,8 +27,8 @@ existiert, korrekte Schreibweise zurückmelden; nicht neu anlegen.
 ## 2. Schritte
 
 1. **Kundennummer (AKLNummer) ermitteln** — per SQL nach `SUCHNAME` / `FIRMA1`
-   in Richtung „eww" / „eww Anlagentechnik" suchen. Achtung: eww ist mehrfach
-   angelegt sein könnte (Anlagentechnik Knorrstraße 6 vs. Elektrotechnik
+   in Richtung „eww" / „eww Anlagentechnik" suchen. Achtung: eww könnte mehrfach
+   angelegt sein (Anlagentechnik Knorrstraße 6 vs. Elektrotechnik
    Wiesenstraße 43) — die richtige Adresse zuordnen und melden.
 2. **Bestand prüfen** — existieren Heindl / Binder / Andlinger schon als
    Ansprechpartner? Vorhandene nicht doppelt anlegen, sondern nur fehlende
