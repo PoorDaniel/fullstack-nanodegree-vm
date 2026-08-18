@@ -4,10 +4,18 @@
 |---|---|
 | **Datum** | <Wochentag, TT.MM.JJJJ> |
 | **Kunde** | <Firma> |
-| **Gesprächspartner** | <Name, Funktion> |
+| **Hauptansprechpartner** | <Name, Funktion> |
 | **Nicht angetroffen** | <Name, falls zutreffend> |
 | **Besucher** | Daniel Aichinger |
 | **Art des Besuchs** | <Kundenbesuch vor Ort / Telefonat / Messe / …> |
+
+## Kontaktpersonen
+
+| Name | Funktion | Eindruck / Ergebnis |
+|---|---|---|
+| <Name> | <Funktion> | <…> |
+
+*(Nur ausfüllen, wenn mehrere Personen im Spiel waren.)*
 
 ## Gesprächsverlauf
 
