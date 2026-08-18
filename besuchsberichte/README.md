@@ -16,3 +16,4 @@ Ablage der Besuchsberichte (Außendienst / Kundenbesuche).
 |---|---|---|---|
 | 18.08.2026 | Ebner Blechtechnik | Hr. Aspelmeyer (Stv.) | mittel |
 | 18.08.2026 | *(Firma offen)* | Stefan Schober | offen gegenüber uns |
+| 18.08.2026 | Fronius (Steinhaus) | Hannes Bremberger | Angebot + Bedarf 2027 |
