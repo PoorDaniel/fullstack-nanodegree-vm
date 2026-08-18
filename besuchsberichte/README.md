@@ -7,6 +7,9 @@ Ablage der Besuchsberichte (Außendienst / Kundenbesuche).
 - Eine Datei je Besuch: `JJJJ-MM-TT_kunde-in-kleinbuchstaben.md`
   (z. B. `2026-08-18_ebner-blechtechnik.md`)
 - Als Basis dient `VORLAGE.md`.
+- Kontaktdaten von Visitenkarten kommen als CSV nach `kontakte/`
+  (Dateiname wie der Bericht, Endung `-kontakte.csv`) — Grundlage fuer die
+  Anlage der Kontaktpersonen in eNVenta.
 - Nur Fakten aus dem Besuch festhalten. Was nicht besprochen wurde, bleibt weg;
   Unklares wird unter „Offene Punkte“ vermerkt.
 
@@ -18,4 +21,4 @@ Ablage der Besuchsberichte (Außendienst / Kundenbesuche).
 | 18.08.2026 | Kremsmüller | Stefan Schober | offen gegenüber uns |
 | 18.08.2026 | Fronius (Steinhaus) | Hannes Bremberger | Angebot + Bedarf 2027 |
 | 18.08.2026 | Fronius (Wels) | Arsham *(zu prüfen)* | sehr guter Termin, m. Nilfisk |
-| 18.08.2026 | *(Firma offen)* | Reuttmeier / Heindel / Binder / Andlinger | Bedarf in Werkstätte |
+| 18.08.2026 | eww Anlagentechnik (Wels) | Reuttmeier / Heindl / Binder / Andlinger | Bedarf in Werkstätte |
