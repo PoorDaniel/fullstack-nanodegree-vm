@@ -1,9 +1,9 @@
-# Besuchsbericht — Stefan Schober
+# Besuchsbericht — Kremsmüller
 
 | | |
 |---|---|
 | **Datum** | Dienstag, 18.08.2026 |
-| **Kunde** | *(Firma noch nachzutragen)* |
+| **Kunde** | Kremsmüller |
 | **Gesprächspartner** | Stefan Schober |
 | **Besucher** | Daniel Aichinger |
 | **Art des Besuchs** | Kundenbesuch vor Ort |
@@ -15,7 +15,7 @@ sehr gute persönliche Verbindung. Er ist uns gegenüber recht offen.
 
 ## Situation beim Kunden
 
-- Am Standort **Schwechat** wurde gerade eine **neue Halle** eingerichtet.
+- Am Kremsmüller-Standort **Schwechat** wurde gerade eine **neue Halle** eingerichtet.
 - Dort besteht eventuell noch Bedarf an Betriebseinrichtung.
 - **Facility-Bereich:** Martina Felbermeier ist zuständig, sie macht dort
   teilweise auch die Betriebseinrichtung mit. Kontaktaufnahme ausdrücklich

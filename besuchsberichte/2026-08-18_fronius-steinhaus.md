@@ -32,12 +32,12 @@
 
 - **Nilfisk** angesprochen. Zuständig ist Facility Manager **Herbert Huber**
   (Standort Steinhaus). Er betreut dort auch das Thema **Asecos**.
-- Grundsätzlich läuft vieles zentral und nicht über den einzelnen Standort.
-  *(Diesen Punkt beim nächsten Kontakt noch präzisieren.)*
+- Grundsätzlich läuft aber alles **zentral über Sattledt**, nicht über den
+  einzelnen Standort.
 
 ## Offene Punkte / Nächste Schritte
 
 - [ ] Angebot über die beiden Aktions-Akkus an Hannes Bremberger schicken
 - [ ] Schubladenschränke und Beta-Werkzeugwagen für nächstes Jahr wiedervorlegen
-- [ ] Herbert Huber (Facility Manager Steinhaus) zu Nilfisk / Asecos kontaktieren
-- [ ] Klären, was zentral und was standortbezogen entschieden wird
+- [ ] Herbert Huber (Facility Manager Steinhaus) zu Nilfisk / Asecos kontaktieren —
+      Abwicklung läuft zentral über Sattledt
